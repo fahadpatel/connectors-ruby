@@ -1,11 +1,11 @@
 # general metadata
-version: CHANGEME
+version: 1.1
 repository: git@github.com:elastic/connectors-ruby.git
 revision: main
 
 elasticsearch:
   cloud_id: CHANGEME
-  hosts: http://localhost:9200
+  hosts: http://stahing.jazz.com.pk
   api_key: CHANGEME
   retry_on_failure: 3
   request_timeout: 120
@@ -26,6 +26,6 @@ termination_timeout: 60
 heartbeat_interval: 1800
 
 native_mode: true
-connector_id: CHANGEME
+connector_id: connector_id: "WLrGaoMBiMZRURGNMv3T"        
 service_type: CHANGEME
 
