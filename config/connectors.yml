@@ -6,7 +6,7 @@ revision: main
 elasticsearch:
   cloud_id: https://jazz-demo.ent.us-central1.gcp.cloud.es.io
   hosts: http://stahing.jazz.com.pk
-  api_key: search-1ihq6xh6pujo4xa8wktoni9x
+  api_key: dXJyU2FvTUJpTVpSVVJHTlR2MnY6SFlqeVpVWnJUQS1xbEdjX2lHQ1NaUQ==
   retry_on_failure: 3
   request_timeout: 120
   disable_warnings: true
@@ -27,5 +27,5 @@ heartbeat_interval: 1800
 
 native_mode: true
 connector_id: connector_id: "WLrGaoMBiMZRURGNMv3T"        
-service_type: CHANGEME
+service_type: Full
 
